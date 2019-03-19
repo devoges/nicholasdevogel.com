@@ -32,7 +32,7 @@ social:
   link: https://github.com/devoges
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/nicholas-devogel
+  link: https://www.linkedin.com/in/nicholas-devogel
 - icon: pubmed
   icon_pack: ai
   link: https://www.ncbi.nlm.nih.gov/pubmed?term=Devogel%2C%20Nicholas%5BAuthor%5D
