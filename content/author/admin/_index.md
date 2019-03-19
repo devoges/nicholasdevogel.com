@@ -42,5 +42,5 @@ user_groups:
 - Visitors
 ---
 
-Nicholas DeVogel is a PhD candidate of biostatistics at the Medical College of Wisconsin. His research interests include statistical genetics and clinical trials, as well as statistical applications to impact biomechanics.
+I'm a PhD candidate in biostatistics at the Medical College of Wisconsin. My primary research interests are in statistical genetics and clinical trials. I also work closely on the use of statistical methodolgy in the biomechanics field. 
 
