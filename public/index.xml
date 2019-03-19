@@ -6,17 +6,8 @@
     <description>Recent content in Nicholas DeVogel on Nicholas DeVogel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Injury Risk Curves Using a Novel (Bayesian) Technique to Describe Human Tolerance in Impact Biomechanics</title>
-      <link>/publication/devogel-injury-2019/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/devogel-injury-2019/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>A novel analytical tool to assess spine injury risk in impact biomechanics</title>
@@ -24,15 +15,6 @@
       <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/talk/osu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A novel analytical tool to assess spine injury risk in impact biomechanics</title>
-      <link>/publication/devogel-novel-2019/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/devogel-novel-2019/</guid>
       <description></description>
     </item>
     
@@ -91,16 +73,6 @@
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Assessment of population sub-structure in genetic association studies.</title>
       <link>/publication/devogel-assessment-2018-1/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
@@ -142,6 +114,33 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/yoganandan-role-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partial observability with exchangeable binary outcomes</title>
+      <link>/publication/szabo-partial-2017-1/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/szabo-partial-2017-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partial observability with exchangeable binary outcomes</title>
+      <link>/publication/szabo-partial-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/szabo-partial-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of predictive performance of injury risk curves</title>
+      <link>/publication/devogel-evaluation-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/devogel-evaluation-2017/</guid>
       <description></description>
     </item>
     
