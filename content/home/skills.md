@@ -44,7 +44,7 @@ subtitle = ""
   icon = "keyboard"
   icon_pack = "fas"
   name = "Other languages, to a lesser extend"
-  description = "C, C++, Java, Python"
+  description = "C, C++, Java, Python, Hugo (used to make this site)"
   
 [[feature]]
   icon = "windows"
