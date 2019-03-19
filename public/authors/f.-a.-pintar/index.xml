@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. A. Pintar on Nicholas DeVogel</title>
+    <link>/authors/f.-a.-pintar/</link>
+    <description>Recent content in F. A. Pintar on Nicholas DeVogel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/f.-a.-pintar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hierarchical process using Brier Score Metrics for lower leg injury risk curves in vertical impact</title>
+      <link>/publication/devogel-hierarchical-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/devogel-hierarchical-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

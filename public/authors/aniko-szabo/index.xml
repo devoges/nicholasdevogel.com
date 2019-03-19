@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aniko Szabo on Nicholas DeVogel</title>
+    <link>/authors/aniko-szabo/</link>
+    <description>Recent content in Aniko Szabo on Nicholas DeVogel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/aniko-szabo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Partial observability with exchangeable binary outcomes</title>
+      <link>/publication/szabo-partial-2017-1/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/szabo-partial-2017-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partial observability with exchangeable binary outcomes</title>
+      <link>/publication/szabo-partial-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/szabo-partial-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Factors for the Development of Acute Respiratory Distress Syndrome (ARDS) in Patients with Pneumonia, a Nationwide Retrospective Study Using the Nationwide Inpatient Sample  (NIS) Database from Year 2002-2012</title>
+      <link>/publication/baig-risk-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/baig-risk-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outcomes of Methicillin Resistant Staphylococcus aureus (MRSA) Pneumonia in Adult Patients (textgreater18 Years)</title>
+      <link>/publication/baig-outcomes-2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/baig-outcomes-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outcomes of Methicillin Sensitive Staphylococcus aureus (MSSA) Pneumonia in Adult Patients (textgreater18 Years)</title>
+      <link>/publication/khan-outcomes-2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/khan-outcomes-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

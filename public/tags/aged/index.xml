@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aged on Nicholas DeVogel</title>
+    <link>/tags/aged/</link>
+    <description>Recent content in aged on Nicholas DeVogel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/aged/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Role of disc area and trabecular bone density on lumbar spinal column fracture risk curves under vertical impact</title>
+      <link>/publication/yoganandan-role-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/yoganandan-role-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

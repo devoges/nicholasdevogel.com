@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cadaver on Nicholas DeVogel</title>
+    <link>/tags/cadaver/</link>
+    <description>Recent content in cadaver on Nicholas DeVogel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cadaver/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Novel Competing Risk Analysis Model to Determine the Role of Cervical Lordosis in Bony and Ligamentous Injuries</title>
+      <link>/publication/yoganandan-novel-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/yoganandan-novel-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of disc area and trabecular bone density on lumbar spinal column fracture risk curves under vertical impact</title>
+      <link>/publication/yoganandan-role-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/yoganandan-role-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foot-ankle complex injury risk curves using calcaneus bone mineral density data</title>
+      <link>/publication/yoganandan-foot-ankle-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/yoganandan-foot-ankle-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

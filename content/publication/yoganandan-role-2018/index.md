@@ -1,0 +1,12 @@
++++
+title = "Role of disc area and trabecular bone density on lumbar spinal column fracture risk curves under vertical impact"
+date = 2018-01-01
+authors = ["Narayan Yoganandan", "Jason Moore", "Frank A. Pintar", "Anjishnu Banerjee", "Nicholas DeVogel", "JiangYue Zhang"]
+publication_types = ["2"]
+abstract = "While studies have been conducted using human cadaver lumbar spines to understand injury biomechanics in terms of stability/energy to fracture, and physiological responses under pure-moment/follower loads, data are sparse for inferior-to-superior impacts. Injuries occur under this mode from underbody blasts. OBJECTIVES: determine role of age, disc area, and trabecular bone density on tolerances/risk curves under vertical loading from a controlled group of specimens. T12-S1 columns were obtained, pretest X-rays and CTs taken, load cells attached to both ends, impacts applied at S1-end using custom vertical accelerator device, and posttest X-ray, CT, and dissections done. BMD of L2-L4 vertebrae were obtained from QCT. Survival analysis-based Human Injury Probability Curves (HIPCs) were derived using proximal and distal forces. Age, area, and BMD were covariates. Forces were considered uncensored, representing the load carrying capacity. The Akaike Information Criterion was used to determine optimal distributions. The mean forces, ±95% confidence intervals, and Normalized Confidence Interval Size (NCIS) were computed. The Lognormal distribution was the optimal function for both forces. Age, area, and BMD were not significant (p textgreater 0.05) covariates for distal forces, while only BMD was significant for proximal forces. The NCIS was the lowest for force-BMD covariate HIPC. The HIPCs for both genders at 35 and 45 years were based on population BMDs. These HIPCs serve as human tolerance criteria for automotive, military, and other applications. In this controlled group of samples, BMD is a better predictor-covariate that characterizes lumbar column injury under inferior-to-superior impacts."
+featured = false
+publication = "*Journal of Biomechanics*"
+tags = ["adult", "aged", "biomechanical experiments", "bone density", "cadaver", "cancellous bone", "confidence intervals", "humans", "impact loading", "lumbar vertebrae", "lumbar spine", "male", "middle aged", "probability", "probability curves", "radiography", "risk", "spinal fractures", "stress", "mechanical", "survival analysis", "survival analysis"]
+doi = "10.1016/j.jbiomech.2018.02.030"
++++
+

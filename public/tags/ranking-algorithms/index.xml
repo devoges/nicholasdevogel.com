@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ranking algorithms on Nicholas DeVogel</title>
+    <link>/tags/ranking-algorithms/</link>
+    <description>Recent content in ranking algorithms on Nicholas DeVogel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ranking-algorithms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Novel learning framework (knockoff technique) to evaluate metric ranking algorithms to describe human response to injury</title>
+      <link>/publication/banerjee-novel-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/banerjee-novel-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

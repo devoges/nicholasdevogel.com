@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frank A. Pintar on Nicholas DeVogel</title>
+    <link>/authors/frank-a.-pintar/</link>
+    <description>Recent content in Frank A. Pintar on Nicholas DeVogel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/frank-a.-pintar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A novel analytical tool to assess spine injury risk in impact biomechanics</title>
+      <link>/publication/devogel-novel-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/devogel-novel-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Competing Risk Analysis Model to Determine the Role of Cervical Lordosis in Bony and Ligamentous Injuries</title>
+      <link>/publication/yoganandan-novel-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/yoganandan-novel-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking of Biomechanical Metrics to Describe Human Response to Impact-Induced Damage</title>
+      <link>/publication/devogel-ranking-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/devogel-ranking-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel learning framework (knockoff technique) to evaluate metric ranking algorithms to describe human response to injury</title>
+      <link>/publication/banerjee-novel-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/banerjee-novel-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of disc area and trabecular bone density on lumbar spinal column fracture risk curves under vertical impact</title>
+      <link>/publication/yoganandan-role-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/yoganandan-role-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foot-ankle complex injury risk curves using calcaneus bone mineral density data</title>
+      <link>/publication/yoganandan-foot-ankle-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/yoganandan-foot-ankle-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
