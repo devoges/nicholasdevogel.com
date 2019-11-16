@@ -43,7 +43,7 @@ subtitle = ""
 [[feature]]
   icon = "keyboard"
   icon_pack = "fas"
-  name = "Other languages, to a lesser extend"
+  name = "Other languages, to a lesser extent"
   description = "C, C++, Java, Python, Hugo (used to make this site)"
   
 [[feature]]
