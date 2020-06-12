@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-phone = "414 955 7532"
-email = "nicholas.t.devogel@outlook.com"
-address = "Medical College of Wisconsin, Milwaukee, WI 53226, USA"
+phone = ""
+email = "nicholastdv@outlook.com"
+address = ""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
